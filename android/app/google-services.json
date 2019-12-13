@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "678187045526",
+    "firebase_url": "https://launchpad-flutter-dart.firebaseio.com",
+    "project_id": "launchpad-flutter-dart",
+    "storage_bucket": "launchpad-flutter-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678187045526:android:67745e9b625d3d0e5028b7",
+        "android_client_info": {
+          "package_name": "dev.over40.launchpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678187045526-k4fghn288oackp9v545hgmabmbpb0h49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.over40.launchpad",
+            "certificate_hash": "1d9a58c1de562bb0bfbd1c3967c5872ea9891f4c"
+          }
+        },
+        {
+          "client_id": "678187045526-el6eom23b61879j2neeon1jkj7812rg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZggns0f5XLfbu53GINZ0IsMthwQSWhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678187045526-el6eom23b61879j2neeon1jkj7812rg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678187045526-4528j17f0lthnantcu99bklemrj35rn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.over40.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678187045526:android:546b48ec97b317065028b7",
+        "android_client_info": {
+          "package_name": "dev.over40.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678187045526-eqc2nr9m7jcd721phmr0gbng6j2pa4kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.over40.quizapp",
+            "certificate_hash": "1d9a58c1de562bb0bfbd1c3967c5872ea9891f4c"
+          }
+        },
+        {
+          "client_id": "678187045526-el6eom23b61879j2neeon1jkj7812rg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZggns0f5XLfbu53GINZ0IsMthwQSWhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678187045526-el6eom23b61879j2neeon1jkj7812rg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678187045526-4528j17f0lthnantcu99bklemrj35rn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.over40.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
