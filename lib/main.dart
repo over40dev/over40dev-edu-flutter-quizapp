@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Dart',
+      title: 'Flutter Dart - User Auth',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You have pressed the button this many times:',
+              'You have tapped the button this many times:',
             ),
             Text(
               '$_counter',
