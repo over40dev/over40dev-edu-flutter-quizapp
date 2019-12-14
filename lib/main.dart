@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Dart Home Page'),
+      home: MyHomePage(title: 'Cogentx QuizApp'),
     );
   }
 }
