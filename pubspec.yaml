@@ -1,5 +1,5 @@
 name: quizapp
-description: A new Flutter project.
+description: A CogentX | JGGames project.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -35,6 +35,8 @@ dependencies:
   google_sign_in: ^4.1.0
 
   rxdart: ^0.22.6
+  provider: 2.0.0+1
+  font_awesome_flutter: 8.4.0
 
 dev_dependencies:
   flutter_test:
