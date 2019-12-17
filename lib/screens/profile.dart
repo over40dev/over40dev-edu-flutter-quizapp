@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import '../services/services.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -6,10 +8,13 @@ class ProfileScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
+    var user = Provider.of<FirebaseUser>(context);
+    
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.deepOrange,
-        title: Text('profile'),
+        title: Text(user.email),
       ),
       body: Center(
         child: FlatButton(
